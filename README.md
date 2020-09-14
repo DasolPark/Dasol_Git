@@ -4,6 +4,9 @@
 - 기본 원격 branch 'origin'
 - git remote를 입력하면 원격 저장소가 있는 지 확인 가능
 - git fetch 후 git status로 원격 저장소 최신 상태 확인 가능
+- git branch "브랜치명" : 브랜치 만들기
+- git checkout "브랜치명" : 브랜치 이동하기
+- git checkout -b "브랜치명" : 브랜치 만들고 바로 넘어가기
 
 ## How to remove file or directory from the staging area
 
